@@ -14,9 +14,16 @@ adfadsfa
 
 asdfdsaf
 
+$\left(\LARGE{AB}\right)$
+
+$\sum
+
+$\frac{\sum \left(\LARGE{AB}\right)}{b}
+
 ## another sub heading {docsify-ignore}
 
 asdfasdf asdfasdf asdfa
+
 
 # Back to main heading
 
