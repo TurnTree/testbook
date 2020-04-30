@@ -14,7 +14,7 @@ adfadsfa
 
 asdfdsaf
 
-## another sub heading
+## another sub heading {docsify-ignore}
 
 asdfasdf asdfasdf asdfa
 
