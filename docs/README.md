@@ -16,9 +16,9 @@ asdfdsaf
 
 $\left(\LARGE{AB}\right)$
 
-$\sum
+$\sum$
 
-$\frac{\sum \left(\LARGE{AB}\right)}{b}
+$\frac{\sum \left(\LARGE{AB}\right)}{b}$
 
 ## another sub heading {docsify-ignore}
 
