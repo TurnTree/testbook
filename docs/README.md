@@ -24,14 +24,14 @@ $\frac{\sum \left(\LARGE{AB}\right)}{b}$
 
 asdfasdf asdfasdf asdfa
 
-$\cfrac{ of possibilities that meet conditions for Event E}{ of equally likely possibilities}$
+$\frac{ of possibilities that meet conditions for Event E}{ of equally likely possibilities}$
 $\LARGE{=}$
 $\LARGE{P(E)}$
 
 $\LARGE{P(E)}$ $\LARGE{=}$ $\tfrac{number of possibilities that meet conditions for Event E}{number of equally likely possibilities}$
 
 
-$\LARGE{P(E)}=\dfrac{(\text{number of possibilities that meet conditions for Event E})}{\text{number of equally likely possibilities}}$
+$\LARGE{P(E)}=\cfrac{(\text{number of possibilities that meet conditions for Event E})}{\text{number of equally likely possibilities}}$
 
 # Back to main heading
 
