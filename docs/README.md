@@ -31,7 +31,7 @@ $\LARGE{P(E)}$
 $\LARGE{P(E)}$ $\LARGE{=}$ $\tfrac{number of possibilities that meet conditions for Event E}{number of equally likely possibilities}$
 
 
-$\LARGE{P(E)}=\dfrac{(number of possibilities that meet conditions for Event E)}{number of equally likely possibilities}$
+$\LARGE{P(E)}=\dfrac{(\text{number of possibilities that meet conditions for Event E})}{\text{number of equally likely possibilities}}$
 
 # Back to main heading
 
