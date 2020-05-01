@@ -8,6 +8,8 @@ asdfas
 
 # Heading
 
+![new image](../new.gif)
+
 adfadsfa
 
 ## Sub Heading
