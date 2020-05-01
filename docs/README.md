@@ -24,6 +24,7 @@ $\frac{\sum \left(\LARGE{AB}\right)}{b}$
 
 asdfasdf asdfasdf asdfa
 
+$\LARGE{P(E)}=\dfrac{# of possibilities that meet conditions for Event E}{# of equally likely possibilities}$
 
 # Back to main heading
 
